@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ThinhPTran/learntousenpm/issues"
   },
-  "homepage": "https://github.com/ThinhPTran/learntousenpm#readme"
+  "homepage": "https://github.com/ThinhPTran/learntousenpm#readme",
+  "dependencies": {
+    "bootswatch": "^3.3.7",
+    "gmaps": "^0.4.24",
+    "jquery": "^3.1.1",
+    "moment": "^2.17.0"
+  }
 }
